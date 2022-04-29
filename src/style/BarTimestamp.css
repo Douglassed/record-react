@@ -1,0 +1,14 @@
+.iconTimestamp {
+    transform: rotate(135deg);
+    font-size: 45px;
+    color: red;
+    margin: 0 0 0 -24px;
+}
+
+.imgTimestamp {
+    border-radius: 50%;
+    width: 30px;
+    position: relative;
+    top: -40px;
+    left: -16px;
+}
