@@ -1,7 +1,7 @@
 const summonerId = "NqXg2v-ydklfu2gfps7BO-Ipc2NDMBHxvnU6-QDIDW44E60";
 const puuid = "gu2k8KF-R0yebh4et_jNlsIf5xX26lz15KHiKvTndpBrzG6DgZKxUMpieIc7FPbuG34Oy6cW3zyoQA";
 const name = "BisousPanthère";
-const api_key = {key: 'RGAPI-29c7b99f-d906-482d-af99-3b6a31e10c13'};
+const api_key = {key: ''};
 
 export async function setApiKey(key) {
     api_key.key = key;
